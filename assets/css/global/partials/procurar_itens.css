@@ -1,0 +1,16 @@
+.dois__centro {
+	display: flex;
+	align-items: center;
+	justify-items: center;
+}
+
+.itens__menu__hamburguer {
+	margin-top: -1vh;
+	margin-left: -1rem;
+}
+
+.font {
+	font-size: 1.4rem;
+	color: var(--preto);
+	font-weight: 400;
+}
